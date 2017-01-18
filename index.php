@@ -37,7 +37,7 @@ $lienCss = '<link rel="stylesheet" type="text/css" href="css/styles.css">';
 	//Simple chaîne de caractères
 $titre = "Exemple de titre";
 	//Balise image
-$imageTest = '<img src="img/pat.jpg" alt="oups">';
+$imageTest = '<img src="img/jcvd.jpg" alt="oups">';
 	//Une date formatée
 $date = '2017-01-14';
 	//Un paragraphe, une balise <em> à l'intérieur
@@ -58,7 +58,7 @@ $tableau = array(
 
 //!!!!!! IMPORTANT !!!!!!
 	//Assignation des objets utilisables par Smarty, dans les .tpl, ainsi : {$nomObjet} 
-$smarty->assign('patSeb',$imageTest);
+$smarty->assign('jcvd',$imageTest);
 /*
   $smarty                           : Objet Smarty généré au début
   ->assign('nomObjet',$variablePhp) : Fonction d'assignation

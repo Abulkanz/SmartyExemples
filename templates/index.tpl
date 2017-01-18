@@ -11,8 +11,7 @@
 <h1 id='grosTitre'>Apprendre Smarty avec Jean-Claude Van Damme</h1>
 
 <!--Balise image contenant le portrait de Patrick Sebastien-->
-{$jcvd}
-
+<div class='imag'>{$jcvd}</div>
 
 <!--Entre balises "paragraphe", est aggrémenté du style lui correspondant-->
 <p>
